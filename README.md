@@ -11,6 +11,10 @@ Access through command line utilizing mysql commands such as:
 
 Extit mysql interface and run comamand "node server.js" // this will fire up the server and allow you to utilize the program
 
+
+https://github.com/Wormhole616/EmployeeTracking/assets/144727575/c2abb001-1991-4f26-9209-e7c3408c5fcc
+
+
 ## Usage
 View, Add, Edit & Delete all employee related data such as:
     - Departments
